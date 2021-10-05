@@ -14,7 +14,7 @@
     <a href="https://t.me/Smile_BoNcHiChi">
     <img src="https://w7.pngwing.com/pngs/508/998/png-transparent-telegram-computer-icons-logo-android-angle-triangle-monochrome-thumbnail.png"
         alt="alt text" width="70" height="70" border="10"/></a>
-    <a href="mailto:https://ulanovnurdin@gmail.com">
+    <a href="https://ulanovnurdin@gmail.com">
     <img src="https://w7.pngwing.com/pngs/838/377/png-transparent-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png"
         alt="alt text" width="70" height="70" border="10"/></a>
 </div>
