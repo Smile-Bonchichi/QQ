@@ -1,6 +1,6 @@
 <div align="center"> <h1> Ulanov Nurdin, 20 y.o. </h1> </div>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" alt="animated" width="75" height="150" border="10"/> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" alt="animated" width="150" height="300" border="10"/> </p>
 
 <div align="center"> <h1> Contact with me </h1> </div>
 
