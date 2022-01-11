@@ -1,4 +1,4 @@
-<div align="center"> <h1> Ulanov Nurdin, 21 y.o. </h1> </div>
+<div align="center"> <h1> Ulanov Nurdin </h1> </div>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" alt="animated" width="150" height="300" border="10"/> </p>
 
