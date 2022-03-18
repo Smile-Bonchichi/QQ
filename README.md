@@ -1,11 +1,15 @@
 <div align="center"> <h1> Ulanov Nurdin </h1> </div>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Smile-Bonchichi&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Bonchichi&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Bonchichi&layout=compact&theme=tokyonight" />
+    <img src="https://www.codewars.com/users/username/badges/large" alt="https://www.codewars.com/users/Smile-Bonchichi"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Smile-Bonchichi&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
 <div align="center"> <h1> Contact with me </h1> </div>
