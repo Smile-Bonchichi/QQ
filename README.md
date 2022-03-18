@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Smile-Bonchichi&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Bonchichi&layout=compact&theme=tokyonight" />
 </p>
-    
+
 <div align="center"> <h1> Contact with me </h1> </div>
 
 <div align="center">
