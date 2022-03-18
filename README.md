@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://www.codewars.com/users/Smile-Bonchichi" alt="https://www.codewars.com/users/username/badges/large"/>
+    <img src="https://www.codewars.com/users/username/badges/large" alt="https://www.codewars.com/users/Smile-Bonchichi"/>
 </p>
 
 <p align="center">
