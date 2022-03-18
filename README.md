@@ -1,6 +1,6 @@
 <div align="center"> <h1> Ulanov Nurdin </h1> </div>
 
-<center> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smile-Bonchichi&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000)](https://git.io/streak-stats) </center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smile-Bonchichi&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000)](https://git.io/streak-stats)
 
 <div align="center"> <h1> Contact with me </h1> </div>
 
