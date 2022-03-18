@@ -1,6 +1,8 @@
 <div align="center"> <h1> Ulanov Nurdin </h1> </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Smile-Bonchichi" alt="https://github.com/anuraghazra/github-readme-stats" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Smile-Bonchichi" alt="https://github.com/anuraghazra/github-readme-stats" />
+</p>
     
 <div align="center"> <h1> Contact with me </h1> </div>
 
