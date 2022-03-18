@@ -1,11 +1,11 @@
 <div align="center"> <h1> Ulanov Nurdin </h1> </div>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Bonchichi&layout=compact&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <p align="center">
-    <img src="https://www.codewars.com/users/username/badges/large" alt="https://www.codewars.com/users/Smile-Bonchichi"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Bonchichi&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
