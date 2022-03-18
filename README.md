@@ -1,6 +1,6 @@
 <div align="center"> <h1> Ulanov Nurdin </h1> </div>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" alt="animated" width="150" height="300" border="10"/> </p>
+<p align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smile-Bonchichi&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000)](https://git.io/streak-stats) </p>
 
 <div align="center"> <h1> Contact with me </h1> </div>
 
@@ -14,5 +14,3 @@
     <a href="https://ulanovnurdin@gmail.com"> <img src="https://w7.pngwing.com/pngs/838/377/png-transparent-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png"
         alt="alt text" width="50" height="50" border="10"/></a>
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smile-Bonchichi&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000)](https://git.io/streak-stats)
