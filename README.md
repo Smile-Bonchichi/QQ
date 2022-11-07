@@ -1,7 +1,7 @@
 <div align="center"> <h1> Ulanov Nurdin </h1> </div>
 
 <p align="center">
-    ![Codewars](https://github.r2v.ch/codewars?user=Smile-Bonchichi&stroke=%23BB432C)
+    <img src="https://github.r2v.ch/codewars?user=Smile-Bonchichi&stroke=%23BB432C" />
 </p>
     
 <p align="center">
