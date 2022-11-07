@@ -1,11 +1,11 @@
 <div align="center"> <h1> Ulanov Nurdin </h1> </div>
-
-<p align="center">
-    <img src="https://github.r2v.ch/codewars?user=Smile-Bonchichi&stroke=%23BB432C" />
-</p>
     
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Bonchichi&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+    <img src="https://github.r2v.ch/codewars?user=Smile-Bonchichi&stroke=%23BB432C" />
 </p>
 
 <p align="center">
