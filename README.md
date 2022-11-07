@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.r2v.ch/codewars?user=Smile-Bonchichi&stroke=%23BB432C" />
+    <img src="https://github.r2v.ch/codewars?user=Smile-Bonchichi&stroke=white" />
 </p>
 
 <p align="center">
